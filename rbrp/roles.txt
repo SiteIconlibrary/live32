@@ -1,0 +1,4 @@
+# RB rolepack v1 - 2026-10-30. <key> <cols> <rows> <frames> <loop_ms> <file> [tag]
+# bN = role flag bit by VALUE (4 = STREAMER bit, 8 = REPLAY bit). Table order = priority when a player holds both.
+b4 9 8 72 4800 rb_creator_v.png CREATOR
+b8 9 8 72 3600 rb_mod_gm.png GM
